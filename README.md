@@ -1,4 +1,4 @@
-# bookAppNodeJs
+# bookAppNodeJs - RESTful API
 
 1. After downloading and extracting the zip folder
 2. use the terminal in the same project directory
